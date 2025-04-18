@@ -1,0 +1,2 @@
+Deployed link(copy paste in your browser):
+https://appliance-energy-prediction-2xk3wqut7dnuhwgyxdw2.streamlit.app/
